@@ -27,7 +27,7 @@ export const axiosJSON = axios.create({
 })
 
 export const axiosGithub = axios.create({
-  baseURL: 'https://proxy.rustc.cloud/?https://api.github.com',
+  baseURL: 'https://proxy.ahwgs.cn/?https://api.github.com',
   headers: {
     Accept: 'application/json'
   }

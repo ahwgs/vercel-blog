@@ -1,14 +1,14 @@
 {
   "name": "blog",
   "version": "1.3.0",
-  "homepage": "https://www.rustc.cloud",
+  "homepage": "https://www.ahwgs.cn",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ycjcl868/blog.git"
+    "url": "https://github.com/ahwgs/blog.git"
   },
   "author": {
-    "name": "ycjcl868"
+    "name": "ahwgs"
   },
   "scripts": {
     "dev": "next dev",
@@ -79,7 +79,7 @@
     "typescript": "^4.9.5"
   },
   "bugs": {
-    "url": "https://github.com/ycjcl868/blog/issues",
+    "url": "https://github.com/ahwgs/blog/issues",
     "email": "chaolinjin@gmail.com"
   }
 }

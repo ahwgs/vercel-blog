@@ -19,7 +19,7 @@
 使用以下指令将该项目克隆到你本地
 
 ```
-git clone https://github.com/ycjcl868/blog
+git clone https://github.com/ahwgs/blog
 ```
 
 接下来，使用 pnpm 安装依赖
@@ -30,7 +30,7 @@ pnpm i
 
 ## 生成 Notion 数据库
 
-复制这个 [Notion 模板](https://ycjcl868.notion.site/b7e25fb9b29a48269e92e36f65a3ffbb)，并分享到 Web 公网。
+复制这个 [Notion 模板](https://ahwgs.notion.site/b7e25fb9b29a48269e92e36f65a3ffbb)，并分享到 Web 公网。
 
 ![](https://user-images.githubusercontent.com/13595509/221388324-00c684dc-2eb8-4748-bd8e-91c8cf7320be.png)
 

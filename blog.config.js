@@ -47,13 +47,13 @@ const BLOG = {
   //   provider: 'cusdis', // leave it empty if you don't need any comment plugin
   //   gitalkConfig: {
   //     repo: 'blog', // The repository of store comments
-  //     owner: 'ycjcl868',
-  //     admin: ['ycjcl868'],
+  //     owner: 'ahwgs',
+  //     admin: ['ahwgs'],
   //     clientID: '26baba385d964968e855',
   //     clientSecret: '56f5bf32b9785258727c624d7fbd2984361315e3',
   //     distractionFreeMode: false,
   //     proxy:
-  //       'https://proxy.rustc.cloud/?https://github.com/login/oauth/access_token'
+  //       'https://proxy.ahwgs.cn/?https://github.com/login/oauth/access_token'
   //   },
   //   utterancesConfig: {
   //     repo: ''

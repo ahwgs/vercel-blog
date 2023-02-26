@@ -70,7 +70,7 @@ class GitalkComponent extends Component {
         createIssueManually: false,
         distractionFreeMode: false,
         proxy:
-          'https://proxy.rustc.cloud/?https://github.com/login/oauth/access_token',
+          'https://proxy.ahwgs.cn/?https://github.com/login/oauth/access_token',
         flipMoveOptions: {
           staggerDelayBy: 150,
           appearAnimation: 'accordionVertical',
