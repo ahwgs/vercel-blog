@@ -51,6 +51,14 @@ npm run start
 
 访问 `localhost:3000` 即可访问
 
+## 部署
+
+打开 `blog.config.js` 修改对应的配置项为自己的
+
 ## 📝 发表你的想法
 
 如果你有任何建议，欢迎提交 issue 或者 pull request。
+
+## Ref
+
+原作者：[https://github.com/ycjcl868/blog](https://github.com/ycjcl868/blog)
