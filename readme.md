@@ -46,7 +46,7 @@ NOTION_ACCESS_TOKEN=secret_xxx # 在这里申请一个 TOKEN：https://developer
 然后执行启动命令：
 
 ```
-npm run start
+pnpm run start
 ```
 
 访问 `localhost:3000` 即可访问

@@ -11,12 +11,11 @@ const NavBar = () => {
   const links = [
     { name: locale.NAV.INDEX, to: '/', show: true },
     { name: locale.NAV.ABOUT, to: '/about', show: BLOG.showAbout },
-    { name: locale.NAV.SEARCH, to: '/search', show: true },
-    { name: locale.NAV.RSS, to: '/feed', show: true }
+    { name: locale.NAV.SEARCH, to: '/search', show: true }
   ].map((link, id) => ({ ...link, id }))
 
   return (
-    <div className='shrink-0'>
+    <div className='shrink-0' style={{ marginLeft: 'auto', marginRight: 10 }}>
       <ul className='flex flex-row items-center'>
         {links.map(
           (link) =>
@@ -39,7 +38,7 @@ const NavBar = () => {
 const Header = ({ fullWidth }) => {
   const useSticky = !BLOG.autoCollapsedNavBar
   const navRef = useRef(null)
-  const sentinalRef = useRef([])
+  const sentinalRef = useRef<any>([])
   const { theme, setTheme } = useTheme()
   const [hasMounted, setHasMounted] = useState(false)
 
